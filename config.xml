@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<theme>
+    <name>cREAgal</name>
+    <version>v2.3</version>
+    <compatibility>2.9</compatibility>
+    <author>Proxecto cREAgal. Xunta de Galicia</author>
+    <author-url>https://edu.xunta.gal</author-url>
+    <license>Creative Commons BY-SA 4.0</license>
+    <license-url>http://creativecommons.org/licenses/by-sa/4.0/</license-url>
+    <description>
+Estilo cREAgal [20250322]
+
+Este estilo usa o tipo de letra Atkinson Hyperlegible Font
+Copyright 2020 Braille Institute of America, Inc.
+https://www.brailleinstitute.org/
+Baixo licenza SIL Open Font License, Version 1.1 . https://openfontlicense.org
+
+    </description>
+    <extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />
+    ]]></extra-head>
+    <extra-body><![CDATA[<script type="text/javascript" src="_style_js.js"></script>]]></extra-body>
+    <edition-extra-head><![CDATA[<script type="text/javascript">if (typeof(exe_style)!='undefined' && exe_style.indexOf("content.css")!=-1)document.write('<scr'+'ipt type="text/javascript" src="' + exe_style.replace("content.css","_style_js.js") +'"></scr'+'ipt>')</script>]]></edition-extra-head>
+</theme>
